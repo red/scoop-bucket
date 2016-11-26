@@ -6,5 +6,4 @@
 * Install red:
     + stable: `scoop install red`
     + latest: `scoop install red-latest`
-`
 
