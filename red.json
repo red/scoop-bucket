@@ -1,0 +1,10 @@
+{
+	"homepage": "http://www.red-lang.org",
+	"version": "0.6.1",
+	"url": "http://static.red-lang.org/dl/win/red-061.exe",
+	"hash": "d27b4d4a23b835091b36b962fbd8f358aaceffc86150254c5b39641ce9713e50",
+	"bin": [
+		["red-061.exe","red" ],
+		["red-061.exe","red.exe" ]
+	]
+}
