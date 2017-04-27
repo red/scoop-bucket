@@ -23,6 +23,6 @@ Both red packages may be installed concurrently, but they both use `red.exe` for
 
 ## Updating red-latest
 
-The red-latest package is unversioned. The `--force` or `-f` flag must be used to update it.
+The red-latest package refers to the automated build of the red 'master' branch. Scoop does not detect when it has changed. In order to update it, you must use both `-f` (force) and `-k` (ignore cache) flags.
 
-* `scoop update red-latest -f`
+* `scoop update red-latest -f -k`
