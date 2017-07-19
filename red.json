@@ -1,10 +1,10 @@
 {
 	"homepage": "http://www.red-lang.org",
-	"version": "0.6.2",
-	"url": "http://static.red-lang.org/dl/win/red-062.exe",
-	"hash": "94760bdd36c27f0ba9facb797b45263d77ad407c5ec82db661a959572d09ec20",
+	"version": "0.6.3",
+	"url": "http://static.red-lang.org/dl/win/red-063.exe",
+	"hash": "C7CDE6927A22491F4A6B5BF6373594522147345712FD324E9FFC8DC6863FB12F",
 	"bin": [
-		["red-062.exe","red" ],
-		["red-062.exe","red.exe" ]
+		["red-063.exe","red" ],
+		["red-063.exe","red.exe" ]
 	]
 }
